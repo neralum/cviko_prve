@@ -18,7 +18,10 @@ public class Paz1c_cvicenie1 {
     
     public static void main(String[] args) {
     
-        System.out.println("Test project for Ghub");
+        for (int i = 0; i < 5; i++) {
+            System.out.println("Test project for Ghub");
+        }
+        
         
     }
     
